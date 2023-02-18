@@ -9,11 +9,14 @@ This document describes how to install code on Windows 10/Ubuntu 16.04/18.04.
 Go to **[here](https://eventgo.widm.csie.ncu.edu.tw/datasets/EventSourceCost/[003]offline_webpage.rar)** download **[003]offline_webpage.rar**.
 
 
-Unzip rar and put it under the set data_dir path.
-data
-   |---start_from_homepage
-   |---start_from_message
-   └---\[ver003\]Task Information.xlsx
+Unzip rar and put it under the set data_dir path.<br>
+````
+root
+└── data
+    ├── start_from_homepage
+    ├── start_from_message
+    └── [ver003]Task Information.xlsx
+````
 
 
 ## Requirement install
